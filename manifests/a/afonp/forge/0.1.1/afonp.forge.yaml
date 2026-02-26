@@ -1,0 +1,14 @@
+PackageIdentifier: afonp.forge
+PackageVersion: 0.1.1
+PackageName: forge
+Publisher: afonp
+License: MIT
+ShortDescription: competitive programming exercise scaffolder with a c++ template system
+PackageUrl: https://github.com/afonp/forge
+InstallerType: zip
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/afonp/forge/releases/download/v0.1.1/forge-x86_64-pc-windows-msvc.zip
+    InstallerSha256: e9c69a2d93c73b09e3b0c1cb344c1057dee70956ce661edacfc630e3e4b16d49
+ManifestType: singleton
+ManifestVersion: 1.6.0
